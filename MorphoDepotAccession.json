@@ -13,7 +13,7 @@
     ],
     "species": [
         "What is your specimen's species?",
-        ""
+        "Plethodon cinereus"
     ],
     "biologicalSex": [
         "What is your specimen's sex?",
@@ -40,7 +40,7 @@
         [
             "Trunk (e.g. body cavity, torso, spine, ribs)",
             "Pelvic girdle",
-            "Hind limg"
+            "Hind limb"
         ]
     ],
     "redistributionAcknowledgement": [
